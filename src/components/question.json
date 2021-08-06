@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "question": "In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+        "optionA": "1850",
+        "optionB": "1880",
+        "optionC": "1930",
+        "optionD": "1950",
+        "answer": "1880"
+    },
+    {
+        "id":2,
+        "question": "What is part of a database that holds only one type of information?",
+        "optionA": "Report",
+        "optionB": "Field",
+        "optionC": "Record",
+        "optionD": "File",
+        "answer": "Field"
+    },
+    {
+        "id": 3,
+        "question": "'OS' computer abbreviation usually means ?",
+        "optionA": "Order of Significance",
+        "optionB": "Open Software",
+        "optionC": "Operating System",
+        "optionD": "Optical Sensor",
+        "answer":"Operating System"
+    },
+    {
+        "id": 4,
+        "question": "OS in computer field is known as?",
+        "optionA": "Operating System",
+        "optionB": "Operation System",
+        "optionC": "Operating Science",
+        "optionD": "Operation Science",
+        "answer": "Operating System"
+    },
+    {
+        "id":5,
+        "question":"Complete the formula: Speed = _____ / Time",
+        "optionA": "Mass",
+        "optionB": "Direction",
+        "optionC": "Distance",
+        "optionD": "Temprature",
+        "answer": "Distacne"
+    },
+    {
+        	
+"id": 6,
+"questions": "In which decade with the first transatlantic radio broadcast occur?",
+
+        "optionA": "1850",
+        "optionB": "1860",
+        "optionC": "1870",
+        "optionD": "1900",
+        "answer": "1900"
+
+    }
+]
